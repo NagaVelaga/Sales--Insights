@@ -28,7 +28,7 @@ Sales data set provided by the company contains sales, transaction,markets in th
 
 ### Data Processing Using SQL
 
-The data containing Transaction in USD are change into INR.
+The data containing Transaction in USD are change into INR, Also delete the unnecessary data or unvalid data.
 
 <p align="center">
 <img src="https://github.com/Ignatius306/Sales-insights-using-powerBI/blob/main/image/sql-powerbi1.png"><br>Fig:SQL
